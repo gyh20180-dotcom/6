@@ -1,0 +1,6 @@
+<<<<<<< HEAD
+a_share_mainboard_daily_2025.db filter=lfs diff=lfs merge=lfs -text
+=======
+*.db filter=lfs diff=lfs merge=lfs -text
+*.ext filter=lfs diff=lfs merge=lfs -text
+>>>>>>> f0d491b (配置 Git LFS 追踪大文件)
